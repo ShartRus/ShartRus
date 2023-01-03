@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing different useful apps
 - 📫 How to reach me - please write me on email - irkweb@mail.ru
 
-    <p>I'm learning HTML with MDN Web Docs course "Front-end web developer":
+    <p>I'm learning HTML with MDN Web Docs course <a href="https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer" title="Front-end web developer">"Front-end web developer"</a>:
         <ul>
             <li>My homework from MDN Web Docs - <a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter" title="Marking up a letter">Marking up a letter</a> in the <a href="https://github.com/ShartRus/ShartRus/tree/main/Marking%20up%20a%20letter" title="Github folder">Github folder</a>
             </li>
